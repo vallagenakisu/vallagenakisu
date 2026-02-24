@@ -1,7 +1,7 @@
 <!-- ===================== HEADER ===================== -->
 
 <h1 align="center">Hi 👋, I'm Tanzir Mannan Turzo</h1>
-<h3 align="center">🧠 Machine Learning Researcher | 🎓 CSE @ KUET | 🚀 Building Intelligent Systems</h3>
+<h3 align="center">🧠 Computer Vision and Image Processing Enthusiasts | 🎓 CSE @ KUET | 🚀 Building Intelligent Systems</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=USERNAME&label=Profile%20views&color=0e75b6&style=flat" alt="profile-views" />
@@ -11,8 +11,8 @@
 
 ## 🔬 Research Focus
 
-- 🎯 Speaker Diarization & ASR Systems  
-- 🤖 Deep Learning & Representation Learning  
+- 🎯 Speaker Diarization & Automatic Speech Recognition Systems  
+- 🤖 3D Vision and Depth Estimations Model
 - 📊 Content-Based Recommendation Systems  
 - ⚡ Efficient Inference & Model Optimization  
 - 🧠 Applied Machine Learning Research  
@@ -21,11 +21,9 @@
 
 ## 🚀 About Me
 
-- 🎓 CSE Student at **KUET**
-- 🧪 Actively working on ML research problems
-- 🏆 Hackathon enthusiast & builder mindset
-- 📚 Strong believer in **Learn → Build → Publish**
-- ✍️ Documenting my learning journey continuously
+- 🎓 CSE Student at **Khulna University of Engineering & Technology**
+- 🧪 Actively working on Computer Vision Research Problems
+- 📚 Strong believer in **Learn → Build → Break → Rebuild*
 
 ---
 
@@ -33,7 +31,8 @@
 
 ### 👨‍💻 Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=python,cpp,c,js,php" />
+  I can adapt to any language, currently I have worked on 
+  <img src="https://skillicons.dev/icons?i=python,cpp,c,js,php,java,csharp" />
 </p>
 
 ### 🤖 ML / AI
