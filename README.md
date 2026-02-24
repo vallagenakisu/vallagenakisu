@@ -64,7 +64,7 @@
 ## 🔥 Contribution Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=USERNAME&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=vallagenakisu&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -72,7 +72,7 @@
 ## 📈 Activity Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=USERNAME&theme=tokyo-night&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vallagenakisu&theme=tokyo-night&hide_border=true" />
 </p>
 
 ---
