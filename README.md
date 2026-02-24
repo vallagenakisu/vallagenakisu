@@ -31,23 +31,23 @@
 
 ### 👨‍💻 Languages
 <p>
-  I can adapt to any language, currently I have worked on 
-  <img src="https://skillicons.dev/icons?i=python,cpp,c,js,php,java,csharp" />
+  I have strong foundational knowledge on programming language so I can adapt to any language, currently I have worked on <br>
+  <img src="https://skillicons.dev/icons?i=python,cpp,c,js,php,java,cs" />
 </p>
 
 ### 🤖 ML / AI
 <p>
-  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow" />
+  <img src="https://skillicons.dev/icons?i=pytorch" />
 </p>
 
 ### 🌐 Backend & Frontend
 <p>
-  <img src="https://skillicons.dev/icons?i=react,laravel,fastapi,nodejs" />
+  <img src="https://skillicons.dev/icons?i=react,laravel,fastapi,nodejs,dotnet,electron,spring" />
 </p>
 
 ### 🗄️ Database & Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,docker,git,linux" />
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,git,linux" />
 </p>
 
 ---
