@@ -77,14 +77,6 @@
 
 ---
 
-## 🧪 Featured Projects
-
-- 🔹 Content-Based Job Recommendation System  
-- 🔹 Watch Together WebSocket Platform  
-- 🔹 FPGA Neural Network Classifier  
-- 🔹 Advanced Speaker Diarization Pipeline  
-
----
 
 
 
