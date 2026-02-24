@@ -1,16 +1,116 @@
-## Hi there 👋
+<!-- ===================== HEADER ===================== -->
 
-<!--
-**vallagenakisu/vallagenakisu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hi 👋, I'm Tanzir Mannan Turzo</h1>
+<h3 align="center">🧠 Machine Learning Researcher | 🎓 CSE @ KUET | 🚀 Building Intelligent Systems</h3>
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=USERNAME&label=Profile%20views&color=0e75b6&style=flat" alt="profile-views" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🔬 Research Focus
+
+- 🎯 Speaker Diarization & ASR Systems  
+- 🤖 Deep Learning & Representation Learning  
+- 📊 Content-Based Recommendation Systems  
+- ⚡ Efficient Inference & Model Optimization  
+- 🧠 Applied Machine Learning Research  
+
+---
+
+## 🚀 About Me
+
+- 🎓 CSE Student at **KUET**
+- 🧪 Actively working on ML research problems
+- 🏆 Hackathon enthusiast & builder mindset
+- 📚 Strong believer in **Learn → Build → Publish**
+- ✍️ Documenting my learning journey continuously
+
+---
+
+## 🛠️ Tech Stack
+
+### 👨‍💻 Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=python,cpp,c,js,php" />
+</p>
+
+### 🤖 ML / AI
+<p>
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow" />
+</p>
+
+### 🌐 Backend & Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=react,laravel,fastapi,nodejs" />
+</p>
+
+### 🗄️ Database & Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,docker,git,linux" />
+</p>
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=tokyonight&hide_border=true" height="165" />
+</p>
+
+---
+
+## 🔥 Contribution Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=USERNAME&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 📈 Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=USERNAME&theme=tokyo-night&hide_border=true" />
+</p>
+
+---
+
+## 🧪 Featured Projects
+
+- 🔹 Content-Based Job Recommendation System  
+- 🔹 Watch Together WebSocket Platform  
+- 🔹 FPGA Neural Network Classifier  
+- 🔹 Advanced Speaker Diarization Pipeline  
+
+---
+
+## 🎯 2025 Research Goals
+
+- 🧠 Master ML → Deep Learning pipeline  
+- 📄 Publish journal/conference paper  
+- 🏆 Win major hackathons  
+- 📚 Complete NEETCODE 150  
+- 📈 Maintain 3.5+ GPA  
+
+---
+
+## 🤝 Connect With Me
+
+<p>
+  <a href="YOUR_LINKEDIN"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+  <a href="mailto:YOUR_EMAIL"><img src="https://skillicons.dev/icons?i=gmail" /></a>
+  <a href="YOUR_PORTFOLIO"><img src="https://skillicons.dev/icons?i=github" /></a>
+</p>
+
+---
+
+## ⚡ Research Philosophy
+
+> "Build models. Break assumptions. Publish truth."
+
+---
+
+<!-- ⭐ IMPORTANT: Replace USERNAME with your GitHub username -->
