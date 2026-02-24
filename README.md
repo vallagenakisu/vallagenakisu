@@ -86,22 +86,14 @@
 
 ---
 
-## 🎯 2025 Research Goals
 
-- 🧠 Master ML → Deep Learning pipeline  
-- 📄 Publish journal/conference paper  
-- 🏆 Win major hackathons  
-- 📚 Complete NEETCODE 150  
-- 📈 Maintain 3.5+ GPA  
-
----
 
 ## 🤝 Connect With Me
 
 <p>
-  <a href="YOUR_LINKEDIN"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
-  <a href="mailto:YOUR_EMAIL"><img src="https://skillicons.dev/icons?i=gmail" /></a>
-  <a href="YOUR_PORTFOLIO"><img src="https://skillicons.dev/icons?i=github" /></a>
+  <a href="https://www.linkedin.com/in/tanzir-mannan-turzo"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+  <a href="mailto:tanzirmannanturzo@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
+  <a href="https://www.facebook.com/tanzirmannan.turzo"><img src="https://skillicons.dev/icons?i=github" /></a>
 </p>
 
 ---
